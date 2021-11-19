@@ -32,10 +32,10 @@ After we have received the following information, we will display only the ports
 The project will be implemented using Python(Py3) , making use of multithreading concepts to make sure the ports are scanned in a faster and effective manner. A queue will also be used to store all the open ports which are then displayed after all the necessary ports are scanned.
 
 The different Application Program Interfaces(API’s) used are as follows:
-*Queue
-*Socket
--Threading
--Pywebio
+* Queue
+* Socket
+- Threading
+- Pywebio
 
 
 The program will be operated mainly in three modes. The three modes are described as follows:
